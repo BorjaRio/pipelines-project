@@ -1,6 +1,6 @@
 # Bienvenido al análisis del FIFA 2020!
 
-![FIFA 2020](imagenes/imagen.png)
+![FIFA 2020](imagen.png)
 
 Pasos a realizar:
 
